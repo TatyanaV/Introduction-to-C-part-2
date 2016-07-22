@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1406490019 source:c:\users\tanya\desktop\cs 162\week 5\lab5\lab\employee.cpp
+	<string>
+	<cstdlib>
+	<iostream>
+	"employee.h"
+
+1406490011 c:\users\tanya\desktop\cs 162\week 5\lab5\lab\employee.h
+	<string>
+
+1406070561 source:c:\users\tanya\desktop\cs 162\week 5\lab5\lab\salariedemployee.cpp
+	<iostream>
+	<string>
+	"salariedemployee.h"
+
+1406448791 c:\users\tanya\desktop\cs 162\week 5\lab5\lab\salariedemployee.h
+	<string>
+	"employee.h"
+
+1406496578 source:c:\users\tanya\desktop\cs 162\week 5\lab5\lab\administrator.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"administrator.h"
+	"employee.h"
+	"salariedemployee.h"
+
+1406495278 c:\users\tanya\desktop\cs 162\week 5\lab5\lab\administrator.h
+	<iostream>
+	"salariedemployee.h"
+
+1406502889 source:c:\users\tanya\desktop\cs 162\week 5\lab5\lab\main.cpp
+	<iostream>
+	<string>
+	"salariedemployee.h"
+	"administrator.h"
+	<vector>
+

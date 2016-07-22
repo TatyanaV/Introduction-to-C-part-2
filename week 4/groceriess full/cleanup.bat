@@ -1,0 +1,11 @@
+del *.obj
+del *.exe
+del *.csm
+del *.bak
+del *.~*
+del *.tds
+del *.ils
+del *.ilc
+del *.ild
+del *.map
+del *.res
